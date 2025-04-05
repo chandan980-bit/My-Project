@@ -1,0 +1,32 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+.Table{
+    height:350px;
+    width: 350px;
+    border: 5px solid #fbfbfb;
+    margin: auto;
+    border-radius: 7px;
+    border-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:skyblue;
+}
+.na{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color:red;
+}
+hr{
+    width: 100%;
+}
+.name{
+    color:green;
+}
